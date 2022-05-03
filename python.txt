@@ -1,0 +1,3 @@
+
+x = 'Hi Buddy ! learn python it's lovely'
+print(x)
