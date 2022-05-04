@@ -1,2 +1,3 @@
-this is demo text file
-adding a new line
+
+x = "devops is love"
+print(x)
